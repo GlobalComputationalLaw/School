@@ -1,1 +1,3 @@
 # School
+
+This is a placeholder for an emerging project...
